@@ -12,7 +12,14 @@ My Design Philosophy:
 
 - 📏 "The life of a designer is a life of fight against the ugliness"
 
+- 📏 "A logo is not a brand, A brand is not an identity, A brand is not a product. A brand is a person's gut feeling about a product, service or organization. It exists in the hearts and minds of individuals."
+
+- 📏 "In design, be logical, search for the truth, be clear."
+
 My Philosophy:
+
+- 🧑‍💻 Stephen Fry:
+"A true thing, poorly expressed, is a lie."
 
 - 🧑‍💻 Aristotle:
 "Educating the mind without educating the heart is no education at all."
@@ -25,9 +32,6 @@ Or bends with the remover to remove."
 
 - 🧑‍💻 Dr. Gregory House:
 "Doing things changes things. Not doing things leaves things exactly as they were."
-
-- 🧑‍💻 Stephen Fry:
-"A true thing, poorly expressed, is a lie."
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/exploresahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/sahil.satpute)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/explore.sahil/)  
 
