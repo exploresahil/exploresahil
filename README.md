@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Sahil
-#### I am a Photographer, Brand Designer & Front-End Developer.
 ![I am a Photographer, Brand Designer & Front-End Developer.](https://i.postimg.cc/T3Pg8fVc/Profile-mage.jpg)
+
+# Sahil Satpute
 
 I am not only a photographer, but also a brand designer and front-end developer. I love to work on projects that have a strong visual identity and I believe that the best way to communicate with people is through imagery.
 
-Skills: HTML | CSS | JS | Adobe XD | Adobe Illustrator | Adobe Lightroom | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects | Adobe Dimension.
+## Skills & Experience
+* 💻 HTML | CSS | JS |
+* 🖱 Adobe XD | Adobe Illustrator | Adobe Lightroom | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects | Adobe Dimension.
 
 My Design Philosophy:
 
@@ -26,3 +28,6 @@ Or bends with the remover to remove."
 
 - 🧑‍💻 Stephen Fry:
 "A true thing, poorly expressed, is a lie."
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/exploresahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sahil.satpute)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/explore.sahil/)  
+
