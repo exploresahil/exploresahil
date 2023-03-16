@@ -7,8 +7,9 @@ I am not only a photographer, but also a brand designer and front-end developer.
 ## Skills & Experience
 * 💻 HTML | CSS | JS | REACT | NEXT.
 * 🖱 Adobe XD | Adobe Illustrator | Adobe Lightroom | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects | Adobe Dimension.
-* ®️ Founder - The Backyard Lab, A creative lab focused on - Branding | Digital Marketing. (since 2017).
+* ®️ Founder - The Backyard Lab, A creative lab focused on - Branding | Digital Marketing. (2017 - 2022).
 * ®️ Vice Presiden - ProCohat Technologies Pvt. Ltd. | ProCohat Technologies help companies run their critical systems and operations by optimizing, modernizing, and scaling their IT solutions across cloud and digital platforms. (since 2023).
+* ®️ Founder - The Circl Studio, ®The Circle Studio is a creative studio focusing on Brand Design and UI Design. We help businesses stand out and create a lasting impression on their customers. (sincs 2023)
 
 My Design Philosophy:
 
