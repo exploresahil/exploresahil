@@ -8,6 +8,7 @@ I am not only a photographer, but also a brand designer and front-end developer.
 * 💻 HTML | CSS | JS | REACT | NEXT.
 * 🖱 Adobe XD | Adobe Illustrator | Adobe Lightroom | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects | Adobe Dimension.
 * ®️ Founder - The Backyard Lab, A creative lab focused on - Branding | Digital Marketing. (since 2017).
+* ®️ Vice Presiden - ProCohat Technologies Pvt. Ltd. | ProCohat Technologies help companies run their critical systems and operations by optimizing, modernizing, and scaling their IT solutions across cloud and digital platforms. (since 2023).
 
 My Design Philosophy:
 
