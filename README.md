@@ -5,7 +5,7 @@
 I am not only a photographer, but also a brand designer and front-end developer. I love to work on projects that have a strong visual identity and I believe that the best way to communicate with people is through imagery.
 
 ## Skills & Experience
-* 💻 HTML | CSS | JS.
+* 💻 HTML | CSS | JS | REACT | NEXT.
 * 🖱 Adobe XD | Adobe Illustrator | Adobe Lightroom | Adobe Photoshop | Adobe Premiere Pro | Adobe After Effects | Adobe Dimension.
 * ®️ Founder - The Backyard Lab, A creative lab focused on - Branding | Digital Marketing. (since 2017).
 
